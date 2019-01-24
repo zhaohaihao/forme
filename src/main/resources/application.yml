@@ -1,0 +1,29 @@
+server:
+  port: 9587
+  use-forward-headers: true
+  undertow:
+    io-threads: 2
+    worker-threads: 36
+    buffer-size: 1024
+    directBuffers: true
+  servlet:
+    session:
+      timeout: 86400s
+    context-path: /hilox-resume
+spring:
+  freemarker:
+    allow-request-override: false
+    cache: false
+    check-template-location: true
+    charset: utf-8
+    content-type: text/html
+    expose-request-attributes: false
+    expose-session-attributes: false
+    expose-spring-macro-helpers: true
+    suffix: .ftl
+    settings:
+      auto_import: /spring.ftl as spring
+    template-loader-path: classpath:/templates/
+    request-context-attribute: request
+logging:
+  file: ./logs/log.log
