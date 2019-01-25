@@ -39,7 +39,7 @@ public class MyWebConfigurer implements WebMvcConfigurer {
      */
     @Override
     public void addCorsMappings(CorsRegistry registry) {
-        registry.addMapping("/hilox-forme/**")
+        registry.addMapping("/forme/**")
                 .allowedHeaders("*")
                 .allowedOrigins("*")
                 .allowedMethods("GET", "POST")

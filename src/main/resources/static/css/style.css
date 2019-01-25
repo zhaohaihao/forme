@@ -196,30 +196,50 @@ ul#skills li:after {
 	color: #aaa;
 }
 ul#skills li.s100:after {content: "100%";}
+ul#skills li.s95:after {content: "95%";}
 ul#skills li.s90:after {content: "90%";}
+ul#skills li.s85:after {content: "85%";}
 ul#skills li.s80:after {content: "80%";}
+ul#skills li.s75:after {content: "75%";}
 ul#skills li.s70:after {content: "70%";}
+ul#skills li.s65:after {content: "65%";}
 ul#skills li.s60:after {content: "60%";}
+ul#skills li.s55:after {content: "55%";}
 ul#skills li.s50:after {content: "50%";}
+ul#skills li.s45:after {content: "45%";}
 ul#skills li.s40:after {content: "40%";}
+ul#skills li.s35:after {content: "35%";}
 ul#skills li.s30:after {content: "30%";}
+ul#skills li.s25:after {content: "25%";}
 ul#skills li.s20:after {content: "20%";}
+ul#skills li.s15:after {content: "15%";}
 ul#skills li.s10:after {content: "10%";}
+ul#skills li.s5:after {content: "5%";}
 
 ul#skills li span {display: none;}
 
 ul#skills li:hover {background: #222;}
 
 li.s100 {width: 97.71428571428571%;}
+li.s95 {width: 92.71428571428571%;}
 li.s90 {width: 87.71428571428571%;}
+li.s85 {width: 82.71428571428571%;}
 li.s80 {width: 77.71428571428571%;}
+li.s75 {width: 72.71428571428571%;}
 li.s70 {width: 67.71428571428571%;}
+li.s65 {width: 62.714285714285715%;}
 li.s60 {width: 57.714285714285715%;}
+li.s55 {width: 52.714285714285715%;}
 li.s50 {width: 47.714285714285715%;}
+li.s45 {width: 42.714285714285715%;}
 li.s40 {width: 37.714285714285715%;}
+li.s35 {width: 32.714285714285715%;}
 li.s30 {width: 27.714285714285715%;}
+li.s25 {width: 22.714285714285715%;}
 li.s20 {width: 17.714285714285715%;}
+li.s15 {width: 12.714285714285714%;}
 li.s10 {width: 7.714285714285714%;}
+li.s5 {width: 2.714285714285714%;}
 
 /* ------------------------*/
 /*---HONORS STUFF---------*/
