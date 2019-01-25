@@ -4,19 +4,11 @@
 <ul id="schools">
 	<li>
 		<div class="details">
-			<h3>University of State</h3>
-			<h4>Degree Title - Concentration</h4>
-			<h5>2005 - 2007</h5>
+			<h3>XX大学</h3>
+			<h4>XX专业 - 本科</h4>
+			<h5>2016 - 至今</h5>
 		</div>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nibh, mattis sit amet consequat a, varius vitae metus. Proin pharetra sodales pellentesque.</p>
-	</li>
-	<li>
-		<div class="details">
-			<h3>State University</h3>
-			<h4>Degree Title - Concentration</h4>
-			<h5>2001 - 2004</h5>
-		</div>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nibh, mattis sit amet consequat a, varius vitae metus. Proin pharetra sodales pellentesque.</p>
+		<p>学习计算机专业基础知识, 并获得一等奖学金1次, 二等奖学金2次...</p>
 	</li>
 </ul>
 

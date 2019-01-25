@@ -16,10 +16,10 @@
 <#-- 简历主体内容 -->
 <div id="wrapper">
     <#include "freemarker/bio.ftl"> <#-- 个人信息 -->
-    <#include "freemarker/skills.ftl"> <#-- 技能清单 -->
-    <#include "freemarker/experience.ftl"> <#-- 工作经历 -->
     <#include "freemarker/education.ftl"> <#-- 教育经历 -->
+    <#include "freemarker/experience.ftl"> <#-- 工作经历 -->
     <#include "freemarker/honors_awards.ftl"> <#-- 个人荣誉/技能证书 -->
+    <#include "freemarker/skills.ftl"> <#-- 技能清单 -->
     <#include "freemarker/personal_projects.ftl"> <#-- 个人项目 -->
     <#include "freemarker/contact.ftl"> <#-- 联系我 -->
 </div>

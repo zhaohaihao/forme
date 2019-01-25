@@ -4,27 +4,27 @@
 <ul id="jobs">
 	<li>
 		<div class="details">
-			<h3>Current Company</h3>
-			<h4>Overlord - City, State</h4>
-			<h5>Jul 2008 - Present</h5>
+			<h3>A公司</h3>
+			<h4>Java开发工程师</h4>
+			<h5>2017.4 - 至今</h5>
 		</div>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nibh, mattis sit amet consequat a, varius vitae metus. Proin pharetra sodales pellentesque.</p>
+		<p>在A公司工作经历</p>
 	</li>
 	<li>
 		<div class="details">
-			<h3>Some Other Company</h3>
-			<h4>Lead Front-End Developer - City, State</h4>
-			<h5>Jan 2010 - Jan 2011</h5>
+			<h3>B公司</h3>
+			<h4>Java开发工程师</h4>
+			<h5>2016.07 - 2017.03</h5>
 		</div>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nibh, mattis sit amet consequat a, varius vitae metus. Proin pharetra sodales pellentesque.</p>
+		<p>在B公司工作经历</p>
 	</li>
 	<li>
 		<div class="details">
-			<h3>Another Company</h3>
-			<h4>Creative Director - City, State</h4>
-			<h5>Jun 2008 - Dec 2009</h5>
+			<h3>C公司</h3>
+			<h4>Java实习生</h4>
+			<h5>2015.11 - 2016.04</h5>
 		</div>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nibh, mattis sit amet consequat a, varius vitae metus. Proin pharetra sodales pellentesque.</p>
+		<p>在C公司工作经历</p>
 	</li>
 </ul>
 
