@@ -13,3 +13,16 @@
 
 希望每个使用该模板的人都有种 "just for me" 的感觉，同时能轻松拿到心仪的多金的Offer。
 
+## 模板选择
+
+模板来源：模板之家
+
+模板名称：简单清晰个人HTML5 WEB简历模板
+
+下载地址：[http://www.cssmoban.com/cssthemes/5601.shtml](http://www.cssmoban.com/cssthemes/5601.shtml)
+
+> 本简历模板基于上述模板修改, 调整了部分样式, 去除了部分不必要的内容。
+
+## 许可证
+[![license](https://img.shields.io/github/license/zhaohaihao/forme.svg)](https://github.com/zhaohaihao/forme/blob/master/LICENSE)
+> Forme 使用 MIT 协议开源，请尽量遵守开源协议，即便是在中国。
