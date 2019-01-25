@@ -1,4 +1,4 @@
-<h2 id="contact" class="sectionHead">Contact Me</h2>
+<h2 id="contact" class="sectionHead">联系我</h2>
 
 <#-- 联系表单 -->
 <div id="contactform"  class="contact">

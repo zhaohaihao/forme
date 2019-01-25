@@ -1,6 +1,6 @@
-<h2 id="learn" class="sectionHead">Education</h2>
+<h2 id="learn" class="sectionHead">教育经历</h2>
 
-<!--EDUCATION-->
+<#-- 教育经历 -->
 <ul id="schools">
 	<li>
 		<div class="details">
@@ -18,6 +18,6 @@
 		</div>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nibh, mattis sit amet consequat a, varius vitae metus. Proin pharetra sodales pellentesque.</p>
 	</li>
-</ul><!--end schooling-->
+</ul>
 
 <div class="clear"></div>

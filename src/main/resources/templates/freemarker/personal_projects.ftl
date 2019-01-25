@@ -1,6 +1,6 @@
-<h2 id="personal" class="sectionHead">Personal Projects</h2>
+<h2 id="personal" class="sectionHead">个人项目</h2>
 
-<!--RECOMMENDATIONS-->
+<#-- 个人项目 -->
 <ul id="projects">
 
 	<li><h3>Current Company</h3></li>

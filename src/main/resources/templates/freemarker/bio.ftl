@@ -1,4 +1,4 @@
-<h2 id="titleName" class="sectionHead">赵海豪</h2>
+<h2 id="titleName" class="sectionHead">Hilox</h2>
 
 <div id="bio">
     <h2>Java开发工程师</h2>
@@ -20,7 +20,11 @@
 
     <#-- 个人描述 -->
     <p>
-
+        嗨，我叫 Hilox，一个不入流的Java程序员，客居杭州。<br />
+        喜欢折腾，喜欢学习研究新的技术，然后中途弃坑。<br />
+        擅长Java后端开发，偶尔也兼顾爬虫相关开发工作。<br />
+        没有 JetBrains 全家桶就写不出代码，<br />
+        没有 Google 和 StackOverflow 就解决不了技术问题。<br />
     </p>
 </div>
 

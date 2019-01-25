@@ -1,6 +1,6 @@
-<h2 id="clock" class="sectionHead">Experience</h2>
+<h2 id="clock" class="sectionHead">工作经历</h2>
 
-<!--EXPERIENCE-->
+<#-- 工作经历 -->
 <ul id="jobs">
 	<li>
 		<div class="details">
@@ -26,6 +26,6 @@
 		</div>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut justo nibh, mattis sit amet consequat a, varius vitae metus. Proin pharetra sodales pellentesque.</p>
 	</li>
-</ul><!--end jobs-->
+</ul>
 
 <div class="clear"></div>
