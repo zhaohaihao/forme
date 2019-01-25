@@ -1,4 +1,4 @@
-package top.hilox.resume.controller;
+package top.hilox.forme.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

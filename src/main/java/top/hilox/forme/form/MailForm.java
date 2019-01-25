@@ -1,4 +1,4 @@
-package top.hilox.resume.form;
+package top.hilox.forme.form;
 
 import lombok.Data;
 

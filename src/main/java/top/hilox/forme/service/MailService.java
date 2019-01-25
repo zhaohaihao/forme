@@ -1,4 +1,4 @@
-package top.hilox.resume.service;
+package top.hilox.forme.service;
 
 import freemarker.template.Template;
 import io.github.biezhi.ome.OhMyEmail;
@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.ui.freemarker.FreeMarkerTemplateUtils;
 import org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer;
-import top.hilox.resume.form.MailForm;
+import top.hilox.forme.form.MailForm;
 
 import java.util.HashMap;
 import java.util.Map;

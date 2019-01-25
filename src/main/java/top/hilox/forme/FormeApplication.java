@@ -1,4 +1,4 @@
-package top.hilox.resume;
+package top.hilox.forme;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
@@ -14,13 +14,13 @@ import org.springframework.context.ApplicationContext;
  */
 @Slf4j
 @SpringBootApplication
-public class ResumeApplication {
+public class FormeApplication {
 
     public static void main(String[] args) {
-        ApplicationContext context = SpringApplication.run(ResumeApplication.class, args);
+        ApplicationContext context = SpringApplication.run(FormeApplication.class, args);
         String serverPort = context.getEnvironment().getProperty("server.port");
         String serverPath = context.getEnvironment().getProperty("server.servlet.context-path");
-        String result = String.format("Hilox-Resume started at http://localhost:%s%s", serverPort, serverPath);
+        String result = String.format("Forme started at http://localhost:%s%s", serverPort, serverPath);
         log.info(result);
     }
 }

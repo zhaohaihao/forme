@@ -1,4 +1,4 @@
-package top.hilox.resume.config;
+package top.hilox.forme.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.ComponentScan;
@@ -18,7 +18,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @Slf4j
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "top.hilox.resume.controller")
+@ComponentScan(basePackages = "top.hilox.forme.controller")
 public class MyWebConfigurer implements WebMvcConfigurer {
 
     /**
@@ -39,7 +39,7 @@ public class MyWebConfigurer implements WebMvcConfigurer {
      */
     @Override
     public void addCorsMappings(CorsRegistry registry) {
-        registry.addMapping("/hilox-resume/**")
+        registry.addMapping("/hilox-forme/**")
                 .allowedHeaders("*")
                 .allowedOrigins("*")
                 .allowedMethods("GET", "POST")

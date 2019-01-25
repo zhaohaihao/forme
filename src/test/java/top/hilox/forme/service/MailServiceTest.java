@@ -1,9 +1,9 @@
-package top.hilox.resume.service;
+package top.hilox.forme.service;
 
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import top.hilox.resume.ResumeApplicationTests;
-import top.hilox.resume.form.MailForm;
+import top.hilox.forme.FormeApplicationTests;
+import top.hilox.forme.form.MailForm;
 
 /**
  * <pre>
@@ -12,7 +12,7 @@ import top.hilox.resume.form.MailForm;
  *
  * Created by Hilox on 2019/1/24 0024.
  */
-public class MailServiceTest extends ResumeApplicationTests {
+public class MailServiceTest extends FormeApplicationTests {
 
     @Autowired
     private MailService mailService;

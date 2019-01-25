@@ -9,7 +9,7 @@ server:
   servlet:
     session:
       timeout: 86400s
-    context-path: /hilox-resume
+    context-path: /forme
 spring:
   freemarker:
     allow-request-override: false
